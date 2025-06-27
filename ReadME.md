@@ -52,5 +52,5 @@ This project was created to demonstrate:
 ---
 
  This is a personal project for my **C++ Junior Developer portfolio**.  
- Entire logic was written manually without auto-generated code
+ Entire logic was written manually without auto-generated code,
  Project made by Sandu Teodor-Robert
